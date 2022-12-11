@@ -1,1 +1,1 @@
-Create a symbolic link to /bin/ls, named __ls__
+copies all html files that were not present in the parent folder
