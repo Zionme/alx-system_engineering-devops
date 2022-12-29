@@ -1,1 +1,1 @@
-Display the contents list of your current directory
+a symbolic link to /bin/ls, named __ls__
