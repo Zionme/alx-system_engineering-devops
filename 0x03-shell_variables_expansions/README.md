@@ -1,1 +1,1 @@
-performing arithmetic, expansions and command subs with the shell
+a script that creates an alias
